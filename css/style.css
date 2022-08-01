@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  } 
+
+.crono{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: aliceblue;
+    height: 100px;
+    width: 100%;
+}
+
+.crono-conteudo{
+    font-size: 50px;
+}
