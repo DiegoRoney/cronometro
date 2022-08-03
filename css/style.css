@@ -35,11 +35,17 @@
     padding: 10px;
    
 }
+
 body{
     text-align: center;
     background: #000000;
   font-family: sans-serif;
   font-weight: 100;
+  
+.crono-conteudo{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
 }
 h1{
   color: rgb(255, 255, 255);
