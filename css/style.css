@@ -32,8 +32,7 @@
     color: aliceblue;
     height:40px;
     width: 100%;
-    padding: 10px;
-   
+    padding: 10px;   
 }
 
 body{
@@ -41,7 +40,7 @@ body{
     background: #000000;
   font-family: sans-serif;
   font-weight: 100;
-  
+}
 .crono-conteudo{
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
